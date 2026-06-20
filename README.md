@@ -109,7 +109,6 @@ Swagger UI:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
-<img width="1916" height="969" alt="Screenshot 2026-06-20 164654" src="https://github.com/user-attachments/assets/eab9c32a-9f13-4b5f-9fb7-de1df3a20644" />
 
 ---
 
@@ -156,6 +155,56 @@ mvn spring-boot:run
 ✔ Spring Cache
 
 ✔ Swagger/OpenAPI documentation
+
+---
+
+# 📸 Screenshots
+
+## 🗄 Database Structure
+
+PostgreSQL database containing students, courses, lessons, tests, test results and activity logs.
+
+<img width="481" height="210" alt="image" src="https://github.com/user-attachments/assets/85066618-3037-467e-8053-9e358b4ac515" />
+
+---
+
+## 📖 Swagger API Documentation
+
+Interactive REST API documentation generated using Swagger/OpenAPI.
+
+<img width="1916" height="969" alt="Screenshot 2026-06-20 164654" src="https://github.com/user-attachments/assets/eab9c32a-9f13-4b5f-9fb7-de1df3a20644" />
+
+---
+
+## ⚡ SQL Query Optimization
+
+### Before Index Optimization
+
+Execution plan before creating PostgreSQL indexes.
+
+<img width="1265" height="948" alt="Screenshot 2026-06-20 122434" src="https://github.com/user-attachments/assets/d8c21e82-3ea1-4248-9e80-ba8c40899ccb" />
+
+### After Index Optimization
+
+Execution plan after creating PostgreSQL indexes.
+
+<img width="1261" height="952" alt="Screenshot 2026-06-20 122804" src="https://github.com/user-attachments/assets/744a2d00-de2a-42ba-b609-1799a019ee5b" />
+
+---
+
+## 📈 Benchmark Results
+
+Average execution times of the implemented benchmark tests.
+
+<img width="1371" height="200" alt="Screenshot 2026-06-20 172909" src="https://github.com/user-attachments/assets/a8d48a2d-2ecb-4fa6-9891-22c7fb647530" />
+
+---
+
+## 🚀 Cache Performance
+
+Comparison between the first database request and the cached request using Spring Cache.
+
+<img width="998" height="177" alt="Screenshot 2026-06-20 172931" src="https://github.com/user-attachments/assets/39606176-e103-411c-8d6f-a94bdd3beb8f" />
 
 ---
 
