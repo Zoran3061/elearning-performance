@@ -109,6 +109,7 @@ Swagger UI:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+<img width="1916" height="969" alt="Screenshot 2026-06-20 164654" src="https://github.com/user-attachments/assets/eab9c32a-9f13-4b5f-9fb7-de1df3a20644" />
 
 ---
 
